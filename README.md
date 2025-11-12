@@ -1,0 +1,7 @@
+# CraftBasin
+
+CraftBasin is a decentralized creator patronage platform that revolutionizes how creators monetize and distribute their work through blockchain technology. The platform introduces a novel "Creative Commons Vault" system where creators can tokenize their content into tiered access NFTs while maintaining complete control over their intellectual property rights.
+
+The platform utilizes a hybrid on-chain/off-chain architecture with encrypted IPFS storage and smart contract-controlled access gates. Key technical innovations include the "Creator Royalty Cascade" system that automatically distributes ongoing royalties when patrons resell access NFTs, zero-knowledge proofs for secure content verification, and automated revenue splitting through smart contracts. The system also features blockchain timestamping for IP protection, plagiarism detection oracles, and integrated legal frameworks for comprehensive content security.
+
+CraftBasin eliminates creator dependency on traditional platforms while providing sustainable, transparent income streams and tradeable access rights for patrons. The platform serves diverse creative communities including musicians releasing exclusive content, digital artists providing early access to collections, writers serializing premium content, and educators offering specialized tutorials. By combining decentralized governance with automated royalty distribution, CraftBasin creates a self-sustaining ecosystem that grows with creator success.
